@@ -3,7 +3,7 @@
   community.general.telegram:
     token: '6060974585:AAFM95tyQjzo52CMHZQknzTM9teHk0_2OuY'
     api_args:
-      chat_id: -900228251
+      chat_id: -100900228251
       parse_mode: "markdown"
       text: "[{{ services }}] Source IP Address {{ source_addresses }} has been blocked - Reason: {{ reason }}"
       disable_web_page_preview: True
